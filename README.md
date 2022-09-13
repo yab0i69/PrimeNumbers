@@ -1,1 +1,1 @@
-# PrimeNumbers
+# Prime Numbers project for ADS
