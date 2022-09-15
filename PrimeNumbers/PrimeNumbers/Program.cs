@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i < 7920000; i++)
+            Console.WriteLine("2");
+            for (int i = 3; i < 15485863; i+=2)
             {
                 bool isPrime = true;
                 for (int j = 2; j < i; j++)
