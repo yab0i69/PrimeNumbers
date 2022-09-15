@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i < 7920; i++)
+            for (int i = 2; i < 7920000; i++)
             {
                 bool isPrime = true;
                 for (int j = 2; j < i; j++)
